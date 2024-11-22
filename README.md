@@ -1,5 +1,7 @@
 # TorToiSe
 
+ [![Try a demo on Replicate](https://replicate.com/afiaka87/tortoise-tts/badge)](https://replicate.com/afiaka87/tortoise-tts)
+
 Tortoise is a text-to-speech program built with the following priorities:
 
 1. Strong multi-voice capabilities.
